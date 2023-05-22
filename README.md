@@ -10,30 +10,44 @@
   </a>
 </div>
 </div>
----
 
-💻 Хочу стать топовым специалистом <br />
-🌐 Стараюсь создавать user-friendly проекты <br />
-🤝 Мечтаю найти компанию, которая стремится создавать лучшие продукты на рынке <br />
-🖽  Хочу освоить как можно больше фреймворков <br />
----
+-----
+<div>
+ <p>💻 Хочу стать топовым специалистом</p>
+ <p>🌐 Стараюсь создавать user-friendly проекты</p>
+ <p>🤝 Мечтаю найти компанию, которая стремится создавать лучшие продукты на рынке</p>
+ <p>🖽  Хочу освоить как можно больше фреймворков</p>
+</div>
+
+
+
 ### Мой стек:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="(https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="50" height="50"/>
 </div>
 
 ### Что планирую выучить:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
 </div>
----
-### Мой статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&layout=compact)](https://github.com/m-golovatenko/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs)](https://github.com/m-golovatenko/github-readme-stats)<br />
+
+
+
+### Моя статистика:
+<div align="center">
+<a href="https://github.com/m-golovatenko/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&layout=compact" height="150"/>
+</a>
+<a href="https://github.com/m-golovatenko/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs" height="150"/>
+</a>
+ </div>
 
 
