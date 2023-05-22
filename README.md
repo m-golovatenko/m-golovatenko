@@ -43,10 +43,10 @@
 ### Моя статистика:
 <div align="center">
 <a href="https://github.com/m-golovatenko/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&layout=compact" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&title_color=EA00D8&layout=compact" height="150"/>
 </a>
 <a href="https://github.com/m-golovatenko/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&title_color=EA00D8&hide=contribs,prs" height="150"/>
 </a>
  </div>
 
