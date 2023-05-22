@@ -9,12 +9,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Мой статистика:
-<a href="https://github.com/m-golovatenko/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs" />
-</a>
-<a href="https://github.com/m-golovatenko/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&layout=compact" />
-</a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs)](https://github.com/m-golovatenko/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast&layout=compact)](https://github.com/m-golovatenko/github-readme-stats)<br />
 
