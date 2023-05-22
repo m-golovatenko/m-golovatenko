@@ -10,5 +10,5 @@
 
 ### Мой статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-golovatenko&theme=highcontrast&hide=contribs,prs)](https://github.com/m-golovatenko/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&layout=compact&theme=highcontrast)](https://github.com/m-golovatenko/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-golovatenko&langs_count=4&theme=highcontrast)](https://github.com/m-golovatenko/github-readme-stats)<br />
 
