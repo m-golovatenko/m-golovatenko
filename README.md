@@ -33,15 +33,21 @@ Currently, I'm deepening my understanding of React internals, performance optimi
 ---
 
 ## 🛠 Tech Stack
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite,webpack" />
-</p>
+### State Management & Forms
+
+- MobX
+- React Hook Form
+
+### UI
+
+- Radix UI
 
 ### Testing
 
@@ -52,13 +58,13 @@ Currently, I'm deepening my understanding of React internals, performance optimi
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,vite,figma" />
 </p>
 
-### Also work with
+### Currently learning
 
-- MobX
-- React Hook Form
+- TanStack Query
+- Zod
 
 ---
 
