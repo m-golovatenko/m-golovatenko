@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="220"/>
 
-Building modern, user-friendly web applications and constantly improving my frontend engineering skills.
+Crafting fast, intuitive and maintainable web applications with React and TypeScript.
 
 <p align="center">
   <a href="https://t.me/pikchay">
