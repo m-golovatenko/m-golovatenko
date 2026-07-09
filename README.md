@@ -52,7 +52,7 @@ Currently, I'm deepening my understanding of React internals, performance optimi
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github, gitlab,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ### Also work with
@@ -81,19 +81,3 @@ Currently, I'm deepening my understanding of React internals, performance optimi
 * 🧪 Improve testing skills
 * 🌍 Contribute to Open Source
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
