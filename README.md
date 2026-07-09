@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="220"/>
 
-**Building products people enjoy using.**
+**Turning ideas into working products.**
 
 <p align="center">
   <a href="https://t.me/pikchay">
